@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-25
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "max_cry0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/baby",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "baby",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		223,
+		189
+	],
+	"camera_position": [
+		-210,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

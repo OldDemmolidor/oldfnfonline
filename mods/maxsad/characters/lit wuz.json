@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ligwuz_idle0"
+		},
+		{
+			"offsets": [
+				130,
+				-283
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ligwuz_right0"
+		},
+		{
+			"offsets": [
+				38,
+				-316
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ligwuz_down0"
+		},
+		{
+			"offsets": [
+				-20,
+				-206
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ligwuz_up0"
+		},
+		{
+			"offsets": [
+				-21,
+				-283
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ligwuz_left0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/liti uzi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "liz",
+	"flip_x": true,
+	"healthbar_colors": [
+		163,
+		73,
+		164
+	],
+	"camera_position": [
+		40,
+		390
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

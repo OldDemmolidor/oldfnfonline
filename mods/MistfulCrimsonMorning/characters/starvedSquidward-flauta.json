@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				163
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right-Flauta",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				177
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left-Flauta",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				214
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up-Flauta",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				204
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down-Flauta",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starved/starved_squidward-flauta",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "starved",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-120,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

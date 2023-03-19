@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cancer_scream.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="심볼 360000" x="0" y="0" width="1409" height="819" pivotX="715.45" pivotY="405.2" frameX="0" frameY="0" frameWidth="1409" frameHeight="823"/>
+	<SubTexture name="심볼 360001" x="1410" y="0" width="1406" height="819" frameX="-3" frameY="0" frameWidth="1409" frameHeight="823"/>
+	<SubTexture name="심볼 360002" x="0" y="820" width="1409" height="815" frameX="0" frameY="-8" frameWidth="1409" frameHeight="823"/>
+	<SubTexture name="심볼 360003" x="1410" y="820" width="1406" height="815" frameX="-3" frameY="-8" frameWidth="1409" frameHeight="823"/>
+	<SubTexture name="심볼 360004" x="0" y="1636" width="1409" height="809" frameX="0" frameY="-10" frameWidth="1409" frameHeight="823"/>
+	<SubTexture name="심볼 360005" x="1410" y="1636" width="1406" height="809" frameX="-3" frameY="-10" frameWidth="1409" frameHeight="823"/>
+	<SubTexture name="심볼 360006" x="0" y="2446" width="1409" height="809" frameX="0" frameY="-7" frameWidth="1409" frameHeight="823"/>
+	<SubTexture name="심볼 360007" x="1410" y="2446" width="1406" height="809" frameX="-3" frameY="-7" frameWidth="1409" frameHeight="823"/>
+</TextureAtlas>

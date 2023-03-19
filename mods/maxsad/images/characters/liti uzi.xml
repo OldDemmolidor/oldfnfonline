@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="liti uzi.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ligwuz_down0000" x="0" y="0" width="621" height="344" frameX="0" frameY="-17" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0001" x="0" y="0" width="621" height="344" frameX="0" frameY="-17" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0002" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0003" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0004" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0005" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0006" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0007" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0008" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0009" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0010" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0011" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0012" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0013" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_down0014" x="621" y="0" width="593" height="361" frameX="-14" frameY="0" frameWidth="621" frameHeight="361"/>
+	<SubTexture name="ligwuz_idle0000" x="1214" y="0" width="522" height="393" frameX="-10" frameY="0" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0001" x="0" y="393" width="540" height="363" frameX="-1" frameY="-15" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0002" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0003" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0004" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0005" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0006" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0007" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0008" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0009" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0010" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0011" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0012" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0013" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_idle0014" x="540" y="393" width="542" height="361" frameX="0" frameY="-16" frameWidth="542" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0000" x="1082" y="393" width="657" height="393"/>
+	<SubTexture name="ligwuz_left0001" x="1082" y="393" width="657" height="393"/>
+	<SubTexture name="ligwuz_left0002" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0003" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0004" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0005" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0006" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0007" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0008" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0009" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0010" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0011" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0012" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0013" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_left0014" x="0" y="786" width="643" height="393" frameX="0" frameY="0" frameWidth="657" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0000" x="643" y="786" width="622" height="393"/>
+	<SubTexture name="ligwuz_right0001" x="643" y="786" width="622" height="393"/>
+	<SubTexture name="ligwuz_right0002" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0003" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0004" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0005" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0006" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0007" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0008" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0009" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0010" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0011" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0012" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0013" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_right0014" x="1265" y="786" width="616" height="393" frameX="-6" frameY="0" frameWidth="622" frameHeight="393"/>
+	<SubTexture name="ligwuz_up0000" x="0" y="1179" width="481" height="471" frameX="-9" frameY="0" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0001" x="0" y="1179" width="481" height="471" frameX="-9" frameY="0" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0002" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0003" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0004" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0005" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0006" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0007" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0008" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0009" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0010" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0011" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0012" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0013" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+	<SubTexture name="ligwuz_up0014" x="481" y="1179" width="500" height="458" frameX="0" frameY="-13" frameWidth="500" frameHeight="471"/>
+</TextureAtlas>

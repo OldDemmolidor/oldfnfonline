@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				11
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "inno_out_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-75
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "inno_out_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				50
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "inno_out_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-23
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "inno_out_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-32
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "inno_out_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/innocence_out",
+	"position": [
+		-90,
+		120
+	],
+	"healthicon": "innocence",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

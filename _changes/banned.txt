@@ -1,0 +1,34 @@
+mods/data/banned/banned-extra.json
+mods/data/banned/mod.txt
+mods/maxsad/characters/lit wuz.json
+mods/maxsad/characters/snow sad.json
+mods/maxsad/characters/lol.json
+mods/maxsad/stages/snow banned.json
+mods/maxsad/stages/snow banned.lua
+mods/maxsad/images/characters/liti uzi.png
+mods/maxsad/images/characters/liti uzi.xml
+mods/maxsad/images/characters/snow.png
+mods/maxsad/images/characters/snow.xml
+mods/maxsad/images/characters/k.png
+mods/maxsad/images/characters/k.xml
+mods/maxsad/custom_events/Set CamZoom.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/images/Stages/floor troll.png
+mods/maxsad/images/Stages/monte.png
+mods/maxsad/fonts/vcr.ttf
+mods/maxsad/images/enginestuff/NoteCombo.png
+mods/maxsad/images/enginestuff/coolhealthborder.png
+mods/maxsad/images/enginestuff/coolhealthbar.png
+mods/maxsad/images/enginestuff/NoteCombo.xml
+mods/songs/banned/Voices.ogg
+mods/songs/banned/voices.ogg
+mods/songs/banned/Inst.ogg
+mods/songs/banned/inst.ogg

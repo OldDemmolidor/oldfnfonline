@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				600,
+				220
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle_lep0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				600,
+				220
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_lep0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				720,
+				-74
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down_lep0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				141
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_lep0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				578,
+				219
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right_lep0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				580,
+				220
+			],
+			"anim": "hey!",
+			"fps": 24,
+			"name": "hey_lep0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lepe",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lepe",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		100,
+		180
+	],
+	"camera_position": [
+		-500,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

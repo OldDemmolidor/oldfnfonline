@@ -1,0 +1,38 @@
+mods/data/orange-guy/mod.txt
+mods/data/orange-guy/orange-guy-extra.json
+mods/maxsad/characters/lit wuz.json
+mods/maxsad/characters/max puto.json
+mods/maxsad/characters/lol.json
+mods/maxsad/stages/snow banned.json
+mods/maxsad/stages/snow banned.lua
+mods/maxsad/images/characters/liti uzi.png
+mods/maxsad/images/characters/liti uzi.xml
+mods/maxsad/images/characters/max pistola.png
+mods/maxsad/images/characters/max pistola.xml
+mods/maxsad/images/characters/k.png
+mods/maxsad/images/characters/k.xml
+mods/maxsad/custom_events/Goodbye Hud.lua
+mods/maxsad/custom_events/Bopping HUD.lua
+mods/maxsad/custom_events/lean.lua
+mods/maxsad/custom_events/BlackOut.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/images/Stages/floor troll.png
+mods/maxsad/images/Stages/monte.png
+mods/maxsad/images/lean.png
+mods/maxsad/fonts/vcr.ttf
+mods/maxsad/images/enginestuff/NoteCombo.png
+mods/maxsad/images/enginestuff/coolhealthborder.png
+mods/maxsad/images/enginestuff/coolhealthbar.png
+mods/maxsad/images/enginestuff/NoteCombo.xml
+mods/songs/orange-guy/Voices.ogg
+mods/songs/orange-guy/voices.ogg
+mods/songs/orange-guy/Inst.ogg
+mods/songs/orange-guy/inst.ogg

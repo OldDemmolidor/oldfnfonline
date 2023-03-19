@@ -1,0 +1,21 @@
+mods/data/bump/bump-extra.json
+mods/data/bump/mod.txt
+mods/maxsad/stages/max_house.json
+mods/maxsad/stages/max_house.lua
+mods/maxsad/custom_events/Goodbye Hud.lua
+mods/maxsad/custom_events/Set CamZoom.lua
+mods/maxsad/custom_events/BlackOut.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/fonts/vcr.ttf
+mods/songs/bump/Voices.ogg
+mods/songs/bump/voices.ogg
+mods/songs/bump/Inst.ogg
+mods/songs/bump/inst.ogg

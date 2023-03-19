@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				590
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				420
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				330
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				39
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "FUCKUPLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-89
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "FUCKUPDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-73
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "FUCKUPNotUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-58
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "FUCKUPRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cuntfrontation/cunt_v",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "v-rage",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

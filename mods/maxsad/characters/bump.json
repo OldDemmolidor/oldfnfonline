@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle_bump0"
+		},
+		{
+			"offsets": [
+				155,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left_bump0"
+		},
+		{
+			"offsets": [
+				161,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down_bump0"
+		},
+		{
+			"offsets": [
+				118,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up_bump0"
+		},
+		{
+			"offsets": [
+				76,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right_bump"
+		},
+		{
+			"offsets": [
+				83,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shot",
+			"loop": false,
+			"name": "shot_bump0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bump",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bump",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-230,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,34 @@
+mods/data/Failure/Failure-hard.json
+mods/data/Failure/mod.txt
+mods/data/Failure/NInput.lua
+mods/MistfulCrimsonMorning/characters/bf.json
+mods/MistfulCrimsonMorning/characters/phase1.json
+mods/MistfulCrimsonMorning/characters/gf.json
+mods/MistfulCrimsonMorning/stages/bedroom.json
+mods/MistfulCrimsonMorning/stages/bedroom.lua
+mods/MistfulCrimsonMorning/images/characters/BOYFRIEND.png
+mods/MistfulCrimsonMorning/images/characters/BOYFRIEND.xml
+mods/MistfulCrimsonMorning/images/characters/phase1_sprites.png
+mods/MistfulCrimsonMorning/images/characters/phase1_sprites.xml
+mods/MistfulCrimsonMorning/images/characters/GF_FinishedREAL.png
+mods/MistfulCrimsonMorning/images/characters/GF_FinishedREAL.xml
+mods/MistfulCrimsonMorning/characters/phase2.json
+mods/MistfulCrimsonMorning/images/characters/phase2_sprites.png
+mods/MistfulCrimsonMorning/images/characters/phase2_sprites.xml
+mods/MistfulCrimsonMorning/custom_events/Light.lua
+mods/MistfulCrimsonMorning/custom_events/Blammed Lights.lua
+mods/MistfulCrimsonMorning/custom_events/Image Flash.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/MistfulCrimsonMorning/images/background/bedroom/room.png
+mods/MistfulCrimsonMorning/images/None.png
+mods/MistfulCrimsonMorning/images/EngineStuff/NoteCombo.png
+mods/MistfulCrimsonMorning/images/EngineStuff/coolhealthborder.png
+mods/MistfulCrimsonMorning/images/EngineStuff/coolhealthbar.png
+mods/MistfulCrimsonMorning/images/EngineStuff/NoteCombo.xml
+mods/songs/Failure/Inst.ogg
+mods/songs/Failure/inst.ogg

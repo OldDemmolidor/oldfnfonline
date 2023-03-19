@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="b2.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfcancer0000" x="0" y="0" width="563" height="701" pivotX="292.35" pivotY="340.35"/>
+	<SubTexture name="gfcancer0001" x="0" y="0" width="563" height="701"/>
+	<SubTexture name="gfcancer0002" x="564" y="0" width="563" height="700" frameX="0" frameY="0" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0003" x="564" y="0" width="563" height="700" frameX="0" frameY="0" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0004" x="1128" y="0" width="561" height="700" frameX="-1" frameY="0" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0005" x="1128" y="0" width="561" height="700" frameX="-1" frameY="0" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0006" x="1690" y="0" width="558" height="699" frameX="-2" frameY="-1" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0007" x="1690" y="0" width="558" height="699" frameX="-2" frameY="-1" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0008" x="2249" y="0" width="547" height="694" frameX="-5" frameY="-3" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0009" x="2249" y="0" width="547" height="694" frameX="-5" frameY="-3" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0010" x="2797" y="0" width="540" height="688" frameX="-6" frameY="-4" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0011" x="2797" y="0" width="540" height="688" frameX="-6" frameY="-4" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0012" x="3338" y="0" width="545" height="692" frameX="-4" frameY="-4" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0013" x="3338" y="0" width="545" height="692" frameX="-4" frameY="-4" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0014" x="0" y="702" width="540" height="689" frameX="-6" frameY="-4" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0015" x="0" y="702" width="540" height="689" frameX="-6" frameY="-4" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0016" x="541" y="702" width="545" height="692" frameX="-4" frameY="-4" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0017" x="541" y="702" width="545" height="692" frameX="-4" frameY="-4" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0018" x="1087" y="702" width="544" height="689" frameX="-3" frameY="-4" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0019" x="1087" y="702" width="544" height="689" frameX="-3" frameY="-4" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0020" x="1632" y="702" width="549" height="695" frameX="-4" frameY="-3" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0021" x="1632" y="702" width="549" height="695" frameX="-4" frameY="-3" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0022" x="2182" y="702" width="559" height="699" frameX="-1" frameY="-1" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0023" x="2182" y="702" width="559" height="699" frameX="-1" frameY="-1" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0024" x="2742" y="702" width="562" height="700" frameX="0" frameY="0" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0025" x="2742" y="702" width="562" height="700" frameX="0" frameY="0" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0026" x="3305" y="702" width="563" height="700" frameX="0" frameY="0" frameWidth="563" frameHeight="701"/>
+	<SubTexture name="gfcancer0027" x="0" y="1403" width="563" height="700" frameX="0" frameY="0" frameWidth="563" frameHeight="701"/>
+</TextureAtlas>

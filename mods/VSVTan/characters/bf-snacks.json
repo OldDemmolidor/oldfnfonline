@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Boyfriend_WT idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Boyfriend_WT left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Boyfriend_WT down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-90,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Boyfriend_WT right0"
+		},
+		{
+			"offsets": [
+				-140,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Boyfriend_WT up0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-snacks",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf-v",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		122,
+		212
+	],
+	"camera_position": [
+		350,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

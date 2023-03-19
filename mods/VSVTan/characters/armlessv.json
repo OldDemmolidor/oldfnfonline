@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "iiiiidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "noarmdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "noarmup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "noarmleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "noarmright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				5
+			],
+			"anim": "sexoturn",
+			"fps": 24,
+			"name": "noarmbecamesexo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/no_arm",
+	"position": [
+		-10,
+		120
+	],
+	"healthicon": "vcrown",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		0,
+		41
+	],
+	"camera_position": [
+		-40,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

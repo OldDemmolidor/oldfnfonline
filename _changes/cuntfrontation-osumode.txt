@@ -1,0 +1,17 @@
+mods/data/cuntfrontation/cuntfrontation-hard.json
+mods/data/cuntfrontation/mod.txt
+mods/VSVTan/stages/battlefield.json
+mods/VSVTan/stages/battlefield.lua
+mods/VSVTan/custom_events/zCameraFix.lua
+mods/VSVTan/scripts/cam.lua
+mods/VSVTan/scripts/Debug_Keys.lua
+mods/VSVTan/scripts/KadeEngineComplexAccWithTimings.lua
+mods/VSVTan/scripts/Rating.lua
+mods/VSVTan/scripts/Score.lua
+mods/VSVTan/scripts/Super_Hugo's Stage Editor V1.6.3.lua
+mods/VSVTan/scripts/timebarfucked.lua
+mods/VSVTan/scripts/trailDoubleNote.lua
+mods/songs/cuntfrontation/Voices.ogg
+mods/songs/cuntfrontation/voices.ogg
+mods/songs/cuntfrontation/Inst.ogg
+mods/songs/cuntfrontation/inst.ogg

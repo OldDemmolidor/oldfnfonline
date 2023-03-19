@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "loser idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-330
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "loser_left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-339
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "loser_down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-303
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "loser_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-311
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "loser_right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/loser starved",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "loser starved",
+	"flip_x": true,
+	"healthbar_colors": [
+		131,
+		159,
+		255
+	],
+	"camera_position": [
+		-70,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "vMic_idle"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "vMic_left"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "vMic_down"
+		},
+		{
+			"offsets": [
+				1,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "vMic_right"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "vMic_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/v-mic",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "v-calm",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

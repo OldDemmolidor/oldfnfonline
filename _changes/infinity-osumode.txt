@@ -1,0 +1,18 @@
+mods/data/infinity/infinity-hard.json
+mods/data/infinity/mod.txt
+mods/VSVTan/stages/StageLord.json
+mods/VSVTan/stages/StageLord.lua
+mods/VSVTan/custom_notetypes/drain2.lua
+mods/VSVTan/custom_notetypes/drain.lua
+mods/VSVTan/scripts/cam.lua
+mods/VSVTan/scripts/Debug_Keys.lua
+mods/VSVTan/scripts/KadeEngineComplexAccWithTimings.lua
+mods/VSVTan/scripts/Rating.lua
+mods/VSVTan/scripts/Score.lua
+mods/VSVTan/scripts/Super_Hugo's Stage Editor V1.6.3.lua
+mods/VSVTan/scripts/timebarfucked.lua
+mods/VSVTan/scripts/trailDoubleNote.lua
+mods/songs/infinity/Voices.ogg
+mods/songs/infinity/voices.ogg
+mods/songs/infinity/Inst.ogg
+mods/songs/infinity/inst.ogg

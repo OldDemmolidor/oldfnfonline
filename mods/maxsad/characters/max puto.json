@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle0"
+		},
+		{
+			"offsets": [
+				43,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				36,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				15,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				-17,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/max pistola",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "puto",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		127,
+		39
+	],
+	"camera_position": [
+		-150,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

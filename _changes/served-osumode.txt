@@ -1,0 +1,24 @@
+mods/data/served/events.json
+mods/data/served/mod.txt
+mods/data/served/screenBeat.lua
+mods/data/served/script.lua
+mods/data/served/served-hard.json
+mods/data/served/served-V2.json
+mods/data/served/whales.lua
+mods/MistfulCrimsonMorning/stages/served.json
+mods/MistfulCrimsonMorning/stages/served.lua
+mods/MistfulCrimsonMorning/custom_events/Flash.lua
+mods/MistfulCrimsonMorning/custom_events/Goodbye Hud.lua
+mods/MistfulCrimsonMorning/custom_events/Light.lua
+mods/MistfulCrimsonMorning/custom_events/Better Cinematics.lua
+mods/MistfulCrimsonMorning/custom_events/Cam Zoom Tween.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/songs/served/Voices.ogg
+mods/songs/served/voices.ogg
+mods/songs/served/Inst.ogg
+mods/songs/served/inst.ogg

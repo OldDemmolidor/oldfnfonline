@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "vlad",
+			"indices": [
+				0,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "vlad",
+			"indices": [
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "vlad",
+			"indices": [
+				2,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "vlad",
+			"indices": [
+				4,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "vlad",
+			"indices": [
+				3,
+				3
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vlad",
+	"position": [
+		250,
+		620
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-100,
+		110
+	],
+	"sing_duration": 6.9,
+	"scale": 1
+}

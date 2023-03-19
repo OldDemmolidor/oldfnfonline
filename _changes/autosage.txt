@@ -1,0 +1,35 @@
+mods/data/autosage/autosage-hard.json
+mods/data/autosage/blackscreen.lua
+mods/data/autosage/mod.txt
+mods/VSVTan/characters/bf-v.json
+mods/VSVTan/characters/v-mic.json
+mods/VSVTan/characters/gf-v.json
+mods/VSVTan/stages/VTanStage.json
+mods/VSVTan/stages/VTanStage.lua
+mods/VSVTan/images/characters/BoyFriend-v.png
+mods/VSVTan/images/characters/BoyFriend-v.xml
+mods/VSVTan/images/characters/v-mic.png
+mods/VSVTan/images/characters/v-mic.xml
+mods/VSVTan/images/characters/GF-v.png
+mods/VSVTan/images/characters/GF-v.xml
+mods/VSVTan/custom_events/Flash.lua
+mods/VSVTan/custom_events/Set Cam Zoom.lua
+mods/VSVTan/custom_events/Cinematics (OverLap).lua
+mods/VSVTan/scripts/cam.lua
+mods/VSVTan/scripts/Debug_Keys.lua
+mods/VSVTan/scripts/KadeEngineComplexAccWithTimings.lua
+mods/VSVTan/scripts/Rating.lua
+mods/VSVTan/scripts/Score.lua
+mods/VSVTan/scripts/Super_Hugo's Stage Editor V1.6.3.lua
+mods/VSVTan/scripts/timebarfucked.lua
+mods/VSVTan/scripts/trailDoubleNote.lua
+mods/VSVTan/images/StageV/whitebg.png
+mods/VSVTan/images/StageV/mountains.png
+mods/VSVTan/images/StageV/homes.png
+mods/VSVTan/images/StageV/ground.png
+mods/VSVTan/images/StageV/backbros/fakemoot.png
+mods/VSVTan/images/StageV/backbros/fakemoot.xml
+mods/songs/autosage/Voices.ogg
+mods/songs/autosage/voices.ogg
+mods/songs/autosage/Inst.ogg
+mods/songs/autosage/inst.ogg

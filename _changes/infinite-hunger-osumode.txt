@@ -1,0 +1,23 @@
+mods/data/infinite-hunger/changeSplashNoteSonic.lua
+mods/data/infinite-hunger/Cinematic.lua
+mods/data/infinite-hunger/infinite-hunger-extra.json
+mods/data/infinite-hunger/mod.txt
+mods/data/infinite-hunger/Splashes.lua
+mods/maxsad/stages/starved-stage.json
+mods/maxsad/stages/starved-stage.lua
+mods/maxsad/custom_events/Goodbye Hud.lua
+mods/maxsad/custom_events/BlackOut.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/fonts/vcr.ttf
+mods/songs/infinite-hunger/Voices.ogg
+mods/songs/infinite-hunger/voices.ogg
+mods/songs/infinite-hunger/Inst.ogg
+mods/songs/infinite-hunger/inst.ogg

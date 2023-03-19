@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "boyfirend idle"
+		},
+		{
+			"offsets": [
+				1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "boyfirend left"
+		},
+		{
+			"offsets": [
+				-3,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "boyfirend down0"
+		},
+		{
+			"offsets": [
+				0,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "boyfirend up"
+		},
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "boyfirend right"
+		},
+		{
+			"offsets": [
+				-2,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "boyfirend miss left"
+		},
+		{
+			"offsets": [
+				-3,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "boyfirend down miss"
+		},
+		{
+			"offsets": [
+				2,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "boyfirend miss up"
+		},
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "boyfirend miss right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-gd",
+	"position": [
+		0,
+		420
+	],
+	"healthicon": "bf-v",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		122,
+		212
+	],
+	"camera_position": [0,0],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,174 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "castle",
+		"player1": "bfblack",
+		"player2": "vblack",
+		"player3": null,
+		"events": [
+			[
+				1333.33333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				5333.33333333333,
+				[
+					[
+						"Flash",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				15993.0555555556,
+				[
+					[
+						"Flash",
+						"2",
+						"0"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"armlessv"
+					],
+					[
+						"Change Character",
+						"BF",
+						"vbf"
+					]
+				]
+			],
+			[
+				58666.6666666667,
+				[
+					[
+						"Default Camera Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				59333.3333333334,
+				[
+					[
+						"Default Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Default Camera Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				60666.6666666667,
+				[
+					[
+						"Default Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				61312.5,
+				[
+					[
+						"Default Camera Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				61333.3333333334,
+				[
+					[
+						"Play Animation",
+						"sexoturn",
+						"Dad"
+					]
+				]
+			],
+			[
+				62666.6666666667,
+				[
+					[
+						"Default Camera Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				63666.6666666667,
+				[
+					[
+						"Default Camera Zoom",
+						"0.69",
+						"SEX!!!"
+					]
+				]
+			],
+			[
+				63993.0555555556,
+				[
+					[
+						"Flash",
+						"3",
+						"0.1"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"vcrown"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "cancerlose",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "nypa"
+	}
+}

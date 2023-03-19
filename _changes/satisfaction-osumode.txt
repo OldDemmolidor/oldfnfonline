@@ -1,0 +1,27 @@
+mods/data/satisfaction/coolshit.lua
+mods/data/satisfaction/events.json
+mods/data/satisfaction/mod.txt
+mods/data/satisfaction/satisfaction-hard.json
+mods/data/satisfaction/satisfaction-pussy.json
+mods/data/satisfaction/satisfaction-V2.json
+mods/data/satisfaction/script.lua
+mods/MistfulCrimsonMorning/stages/kitchen.json
+mods/MistfulCrimsonMorning/stages/kitchen.lua
+mods/MistfulCrimsonMorning/stages/satisfaction.json
+mods/MistfulCrimsonMorning/stages/satisfaction.lua
+mods/MistfulCrimsonMorning/custom_notetypes/Sponge Note.lua
+mods/MistfulCrimsonMorning/custom_events/Flash.lua
+mods/MistfulCrimsonMorning/custom_events/Light.lua
+mods/MistfulCrimsonMorning/custom_events/Better Cinematics.lua
+mods/MistfulCrimsonMorning/custom_events/Cam Zoom Tween.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/MistfulCrimsonMorning/sounds/spongeHit.ogg
+mods/songs/satisfaction/Voices.ogg
+mods/songs/satisfaction/voices.ogg
+mods/songs/satisfaction/Inst.ogg
+mods/songs/satisfaction/inst.ogg

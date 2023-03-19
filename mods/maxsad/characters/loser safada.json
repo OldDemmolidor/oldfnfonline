@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "loser idle0"
+		},
+		{
+			"offsets": [
+				95,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "loser left0"
+		},
+		{
+			"offsets": [
+				109,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "loser down0"
+		},
+		{
+			"offsets": [
+				54,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "loser up0"
+		},
+		{
+			"offsets": [
+				50,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "loser right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/loser safada",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "safada-new",
+	"flip_x": false,
+	"healthbar_colors": [
+		198,
+		38,
+		174
+	],
+	"camera_position": [
+		-130,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

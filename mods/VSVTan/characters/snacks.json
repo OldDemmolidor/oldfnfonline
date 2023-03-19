@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "S_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "S_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "snacks down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "S_RIGHT"
+		},
+		{
+			"offsets": [
+				-1,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "S_UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snacks",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "snacks",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		0
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

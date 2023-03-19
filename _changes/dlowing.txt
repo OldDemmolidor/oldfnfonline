@@ -1,0 +1,45 @@
+mods/data/dlowing/dlowing-normal.json
+mods/data/dlowing/mod.txt
+mods/Dlowing2.0/characters/yarlow.json
+mods/Dlowing2.0/stages/dlowingt.json
+mods/Dlowing2.0/stages/dlowingt.lua
+mods/Dlowing2.0/images/characters/yarlowdnasu.png
+mods/Dlowing2.0/images/characters/yarlowdnasu.xml
+mods/Dlowing2.0/scripts/v4-ui.lua
+mods/Dlowing2.0/images/dlowingassets/main.png
+mods/Dlowing2.0/images/dlowingassets/ruby stand.png
+mods/Dlowing2.0/images/dlowingassets/the thingies.png
+mods/Dlowing2.0/images/dlowingassets/blade.png
+mods/Dlowing2.0/images/dlowingassets/blade glow.png
+mods/Dlowing2.0/images/dlowingassets/stand glow.png
+mods/Dlowing2.0/images/dlowingassets/lighting main.png
+mods/Dlowing2.0/images/dlowingassets/overlay gold.png
+mods/Dlowing2.0/images/dlowingassets/boppers/limedlowing.png
+mods/Dlowing2.0/images/dlowingassets/boppers/limedlowing.xml
+mods/Dlowing2.0/images/dlowingassets/boppers/rhu.png
+mods/Dlowing2.0/images/dlowingassets/boppers/rhu.xml
+mods/Dlowing2.0/images/dlowingassets/boppers/nr.png
+mods/Dlowing2.0/images/dlowingassets/boppers/nr.xml
+mods/Dlowing2.0/images/dlowingassets/boppers/sheriff.png
+mods/Dlowing2.0/images/dlowingassets/boppers/sheriff.xml
+mods/Dlowing2.0/images/dlowingassets/boppers/whiteruby.png
+mods/Dlowing2.0/images/dlowingassets/boppers/whiteruby.xml
+mods/Dlowing2.0/images/dlowingassets/boppers/mint.png
+mods/Dlowing2.0/images/dlowingassets/boppers/mint.xml
+mods/Dlowing2.0/images/dlowingassets/passers/amongly.png
+mods/Dlowing2.0/images/dlowingassets/passers/amongly.xml
+mods/Dlowing2.0/images/dlowingassets/passers/tanandrichard.png
+mods/Dlowing2.0/images/dlowingassets/passers/tanandrichard.xml
+mods/Dlowing2.0/images/dlowingassets/passers/amonglita.png
+mods/Dlowing2.0/images/dlowingassets/passers/amonglita.xml
+mods/Dlowing2.0/images/dlowingassets/passers/redmungus.png
+mods/Dlowing2.0/images/dlowingassets/passers/redmungus.xml
+mods/Dlowing2.0/images/pee vig.png
+mods/Dlowing2.0/images/pee vig.xml
+mods/Dlowing2.0/fonts/vcr-v4.ttf
+mods/Dlowing2.0/images/timeBar.png
+mods/Dlowing2.0/fonts/arial-v4.ttf
+mods/songs/dlowing/Voices.ogg
+mods/songs/dlowing/voices.ogg
+mods/songs/dlowing/Inst.ogg
+mods/songs/dlowing/inst.ogg

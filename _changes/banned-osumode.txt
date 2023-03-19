@@ -1,0 +1,19 @@
+mods/data/banned/banned-extra.json
+mods/data/banned/mod.txt
+mods/maxsad/stages/snow banned.json
+mods/maxsad/stages/snow banned.lua
+mods/maxsad/custom_events/Set CamZoom.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/fonts/vcr.ttf
+mods/songs/banned/Voices.ogg
+mods/songs/banned/voices.ogg
+mods/songs/banned/Inst.ogg
+mods/songs/banned/inst.ogg

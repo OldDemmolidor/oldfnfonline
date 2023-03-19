@@ -1,0 +1,24 @@
+mods/data/unknown-suffering/achievementsFC.lua
+mods/data/unknown-suffering/events.json
+mods/data/unknown-suffering/mod.txt
+mods/data/unknown-suffering/script1.lua
+mods/data/unknown-suffering/script2.lua
+mods/data/unknown-suffering/script3.lua
+mods/data/unknown-suffering/shake go brrrr.lua
+mods/data/unknown-suffering/unknown-suffering-hard.json
+mods/UnknownSufferingRemixSester/stages/mousemanstreets.json
+mods/UnknownSufferingRemixSester/stages/mousemanstreets.lua
+mods/UnknownSufferingRemixSester/custom_notetypes/Nedle Note.lua
+mods/UnknownSufferingRemixSester/custom_events/Watchout que.lua
+mods/UnknownSufferingRemixSester/custom_events/blackoutINSTANT.lua
+mods/UnknownSufferingRemixSester/custom_events/Set Cam Zoom.lua
+mods/UnknownSufferingRemixSester/custom_events/Cam Boom Speed.lua
+mods/UnknownSufferingRemixSester/custom_events/Hud Fade.lua
+mods/UnknownSufferingRemixSester/custom_events/Flash Camera.lua
+mods/UnknownSufferingRemixSester/custom_events/Cinematics.lua
+mods/UnknownSufferingRemixSester/sounds/nedle.ogg
+mods/UnknownSufferingRemixSester/sounds/watchout.ogg
+mods/songs/unknown-suffering/Voices.ogg
+mods/songs/unknown-suffering/voices.ogg
+mods/songs/unknown-suffering/Inst.ogg
+mods/songs/unknown-suffering/inst.ogg

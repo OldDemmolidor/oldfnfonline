@@ -1,0 +1,14 @@
+mods/data/childs-play/childs-play-hard.json
+mods/data/childs-play/childs-play-minus.json
+mods/data/childs-play/credits.lua
+mods/data/childs-play/drain.lua
+mods/data/childs-play/mod.txt
+mods/NO-MORE-INNOCENCE/stages/innocence.json
+mods/NO-MORE-INNOCENCE/stages/innocence.lua
+mods/NO-MORE-INNOCENCE/custom_events/Flash Black.lua
+mods/NO-MORE-INNOCENCE/custom_events/BlackOut.lua
+mods/NO-MORE-INNOCENCE/scripts/cameraMovement.lua
+mods/NO-MORE-INNOCENCE/scripts/custom-gameover.lua
+mods/NO-MORE-INNOCENCE/scripts/LMAO.lua
+mods/songs/childs-play/Inst.ogg
+mods/songs/childs-play/inst.ogg

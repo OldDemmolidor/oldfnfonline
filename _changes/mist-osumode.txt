@@ -1,0 +1,20 @@
+mods/data/mist/dodges.lua
+mods/data/mist/events.json
+mods/data/mist/mist-hard.json
+mods/data/mist/mod.txt
+mods/MistfulCrimsonMorning/stages/bedroom.json
+mods/MistfulCrimsonMorning/stages/bedroom.lua
+mods/MistfulCrimsonMorning/custom_events/Goodbye Hud.lua
+mods/MistfulCrimsonMorning/custom_events/Light.lua
+mods/MistfulCrimsonMorning/custom_events/shoot.lua
+mods/MistfulCrimsonMorning/custom_events/Zoom.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/songs/mist/Voices.ogg
+mods/songs/mist/voices.ogg
+mods/songs/mist/Inst.ogg
+mods/songs/mist/inst.ogg

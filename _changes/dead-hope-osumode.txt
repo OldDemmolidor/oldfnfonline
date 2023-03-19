@@ -1,0 +1,22 @@
+mods/data/dead-hope/dead-hope-hard.json
+mods/data/dead-hope/mod.txt
+mods/data/dead-hope/script.lua
+mods/MistfulCrimsonMorning/stages/surgery.json
+mods/MistfulCrimsonMorning/stages/surgery.lua
+mods/MistfulCrimsonMorning/custom_events/Bopping HUD.lua
+mods/MistfulCrimsonMorning/custom_events/why.lua
+mods/MistfulCrimsonMorning/custom_events/FlipUI.lua
+mods/MistfulCrimsonMorning/custom_events/hidehud.lua
+mods/MistfulCrimsonMorning/custom_events/Set Cam Zoom.lua
+mods/MistfulCrimsonMorning/custom_events/Light.lua
+mods/MistfulCrimsonMorning/custom_events/why-stop.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/songs/dead-hope/Voices.ogg
+mods/songs/dead-hope/voices.ogg
+mods/songs/dead-hope/Inst.ogg
+mods/songs/dead-hope/inst.ogg

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="innocence_out.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="inno_out_down0000" x="0" y="0" width="818" height="706" frameX="0" frameY="-25" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0001" x="0" y="0" width="818" height="706" frameX="0" frameY="-25" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0002" x="818" y="0" width="805" height="719" frameX="-6" frameY="-12" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0003" x="818" y="0" width="805" height="719" frameX="-6" frameY="-12" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0004" x="1623" y="0" width="787" height="731" frameX="-15" frameY="0" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0005" x="1623" y="0" width="787" height="731" frameX="-15" frameY="0" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0006" x="2410" y="0" width="787" height="728" frameX="-15" frameY="-3" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0007" x="2410" y="0" width="787" height="728" frameX="-15" frameY="-3" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0008" x="2410" y="0" width="787" height="728" frameX="-15" frameY="-3" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0009" x="2410" y="0" width="787" height="728" frameX="-15" frameY="-3" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0010" x="2410" y="0" width="787" height="728" frameX="-15" frameY="-3" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0011" x="2410" y="0" width="787" height="728" frameX="-15" frameY="-3" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0012" x="2410" y="0" width="787" height="728" frameX="-15" frameY="-3" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0013" x="2410" y="0" width="787" height="728" frameX="-15" frameY="-3" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_down0014" x="2410" y="0" width="787" height="728" frameX="-15" frameY="-3" frameWidth="818" frameHeight="731"/>
+	<SubTexture name="inno_out_idle0000" x="3197" y="0" width="750" height="770" frameX="0" frameY="-28" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0001" x="3197" y="0" width="750" height="770" frameX="0" frameY="-28" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0002" x="3947" y="0" width="742" height="775" frameX="-8" frameY="-23" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0003" x="3947" y="0" width="742" height="775" frameX="-8" frameY="-23" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0004" x="4689" y="0" width="735" height="785" frameX="-15" frameY="-13" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0005" x="4689" y="0" width="735" height="785" frameX="-15" frameY="-13" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0006" x="5424" y="0" width="729" height="793" frameX="-21" frameY="-5" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0007" x="5424" y="0" width="729" height="793" frameX="-21" frameY="-5" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0008" x="6153" y="0" width="729" height="798" frameX="-21" frameY="0" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0009" x="6153" y="0" width="729" height="798" frameX="-21" frameY="0" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0010" x="6882" y="0" width="729" height="797" frameX="-21" frameY="-1" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0011" x="6882" y="0" width="729" height="797" frameX="-21" frameY="-1" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0012" x="0" y="798" width="729" height="798" frameX="-21" frameY="0" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0013" x="0" y="798" width="729" height="798" frameX="-21" frameY="0" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_idle0014" x="0" y="798" width="729" height="798" frameX="-21" frameY="0" frameWidth="750" frameHeight="798"/>
+	<SubTexture name="inno_out_left0000" x="729" y="798" width="855" height="858" frameX="0" frameY="-21" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0001" x="729" y="798" width="855" height="858" frameX="0" frameY="-21" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0002" x="1584" y="798" width="854" height="868" frameX="-1" frameY="-11" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0003" x="1584" y="798" width="854" height="868" frameX="-1" frameY="-11" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0004" x="2438" y="798" width="853" height="875" frameX="-2" frameY="-4" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0005" x="2438" y="798" width="853" height="875" frameX="-2" frameY="-4" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0006" x="3291" y="798" width="853" height="879" frameX="-2" frameY="0" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0007" x="3291" y="798" width="853" height="879" frameX="-2" frameY="0" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0008" x="3291" y="798" width="853" height="879" frameX="-2" frameY="0" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0009" x="3291" y="798" width="853" height="879" frameX="-2" frameY="0" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0010" x="3291" y="798" width="853" height="879" frameX="-2" frameY="0" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0011" x="3291" y="798" width="853" height="879" frameX="-2" frameY="0" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0012" x="3291" y="798" width="853" height="879" frameX="-2" frameY="0" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0013" x="3291" y="798" width="853" height="879" frameX="-2" frameY="0" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_left0014" x="3291" y="798" width="853" height="879" frameX="-2" frameY="0" frameWidth="855" frameHeight="879"/>
+	<SubTexture name="inno_out_right0000" x="4144" y="798" width="1048" height="794" frameX="0" frameY="-12" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0001" x="4144" y="798" width="1048" height="794" frameX="0" frameY="-12" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0002" x="5192" y="798" width="1060" height="793" frameX="0" frameY="-13" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0003" x="5192" y="798" width="1060" height="793" frameX="0" frameY="-13" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0004" x="6252" y="798" width="1067" height="793" frameX="0" frameY="-13" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0005" x="6252" y="798" width="1067" height="793" frameX="0" frameY="-13" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0006" x="0" y="1677" width="1062" height="806" frameX="0" frameY="0" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0007" x="0" y="1677" width="1062" height="806" frameX="0" frameY="0" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0008" x="0" y="1677" width="1062" height="806" frameX="0" frameY="0" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0009" x="0" y="1677" width="1062" height="806" frameX="0" frameY="0" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0010" x="0" y="1677" width="1062" height="806" frameX="0" frameY="0" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0011" x="0" y="1677" width="1062" height="806" frameX="0" frameY="0" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0012" x="0" y="1677" width="1062" height="806" frameX="0" frameY="0" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0013" x="0" y="1677" width="1062" height="806" frameX="0" frameY="0" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_right0014" x="0" y="1677" width="1062" height="806" frameX="0" frameY="0" frameWidth="1067" frameHeight="806"/>
+	<SubTexture name="inno_out_up0000" x="1062" y="1677" width="729" height="912"/>
+	<SubTexture name="inno_out_up0001" x="1062" y="1677" width="729" height="912"/>
+	<SubTexture name="inno_out_up0002" x="1791" y="1677" width="729" height="908" frameX="0" frameY="-4" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0003" x="1791" y="1677" width="729" height="908" frameX="0" frameY="-4" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0004" x="2520" y="1677" width="729" height="903" frameX="0" frameY="-9" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0005" x="2520" y="1677" width="729" height="903" frameX="0" frameY="-9" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0006" x="3249" y="1677" width="729" height="892" frameX="0" frameY="-20" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0007" x="3249" y="1677" width="729" height="892" frameX="0" frameY="-20" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0008" x="3249" y="1677" width="729" height="892" frameX="0" frameY="-20" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0009" x="3249" y="1677" width="729" height="892" frameX="0" frameY="-20" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0010" x="3249" y="1677" width="729" height="892" frameX="0" frameY="-20" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0011" x="3249" y="1677" width="729" height="892" frameX="0" frameY="-20" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0012" x="3249" y="1677" width="729" height="892" frameX="0" frameY="-20" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0013" x="3249" y="1677" width="729" height="892" frameX="0" frameY="-20" frameWidth="729" frameHeight="912"/>
+	<SubTexture name="inno_out_up0014" x="3249" y="1677" width="729" height="892" frameX="0" frameY="-20" frameWidth="729" frameHeight="912"/>
+</TextureAtlas>

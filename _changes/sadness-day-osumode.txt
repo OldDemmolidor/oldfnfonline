@@ -1,0 +1,23 @@
+mods/data/sadness-day/mod.txt
+mods/data/sadness-day/sadness-day-sad.json
+mods/data/sadness-day/video.lua
+mods/maxsad/stages/max_house.json
+mods/maxsad/stages/max_house.lua
+mods/maxsad/custom_notetypes/vineboom.lua
+mods/maxsad/custom_events/Set CamZoom.lua
+mods/maxsad/custom_events/Goodbye Hud.lua
+mods/maxsad/custom_events/Image Flash.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/fonts/vcr.ttf
+mods/songs/sadness-day/Voices.ogg
+mods/songs/sadness-day/voices.ogg
+mods/songs/sadness-day/Inst.ogg
+mods/songs/sadness-day/inst.ogg

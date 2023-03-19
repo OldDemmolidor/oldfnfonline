@@ -1,0 +1,22 @@
+mods/data/orange-guy/mod.txt
+mods/data/orange-guy/orange-guy-extra.json
+mods/maxsad/stages/snow banned.json
+mods/maxsad/stages/snow banned.lua
+mods/maxsad/custom_events/Goodbye Hud.lua
+mods/maxsad/custom_events/Bopping HUD.lua
+mods/maxsad/custom_events/lean.lua
+mods/maxsad/custom_events/BlackOut.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/fonts/vcr.ttf
+mods/songs/orange-guy/Voices.ogg
+mods/songs/orange-guy/voices.ogg
+mods/songs/orange-guy/Inst.ogg
+mods/songs/orange-guy/inst.ogg

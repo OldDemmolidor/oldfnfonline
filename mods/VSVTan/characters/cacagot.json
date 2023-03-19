@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dyadka"
+		},
+		{
+			"offsets": [
+				187,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "levo"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "vniz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "vverx",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "vprava",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cacagot",
+	"position": [
+		-250,
+		0
+	],
+	"healthicon": "pargot",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		255
+	],
+	"camera_position": [
+		-210,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

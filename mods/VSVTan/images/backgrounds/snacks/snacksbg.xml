@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snacksbg.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="base wt0000" x="0" y="0" width="2165" height="824"/>
+	<SubTexture name="bg0000" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0001" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0002" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0003" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0004" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0005" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0006" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0007" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0008" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0009" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0010" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0011" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0012" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0013" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0014" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0015" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0016" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0017" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0018" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0019" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0020" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0021" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0022" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0023" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0024" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0025" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0026" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0027" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0028" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0029" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0030" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0031" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0032" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0033" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="bg0034" x="0" y="854" width="2276" height="917"/>
+	<SubTexture name="cloud10000" x="2390" y="854" width="393" height="170"/>
+	<SubTexture name="cloud20000" x="3140" y="954" width="104" height="77"/>
+	<SubTexture name="cloud30000" x="3823" y="884" width="267" height="51"/>
+	<SubTexture name="far bg0000" x="0" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0001" x="0" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0002" x="0" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0003" x="0" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0004" x="0" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0005" x="0" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0006" x="0" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0007" x="1127" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0008" x="1127" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0009" x="2254" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0010" x="2254" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0011" x="2254" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0012" x="2254" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0013" x="2254" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0014" x="2254" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0015" x="2254" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0016" x="2254" y="1801" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0017" x="0" y="2224" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0018" x="0" y="2224" width="1097" height="393" frameX="0" frameY="-16" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0019" x="1127" y="2224" width="1097" height="409"/>
+	<SubTexture name="far bg0020" x="1127" y="2224" width="1097" height="409"/>
+	<SubTexture name="far bg0021" x="1127" y="2224" width="1097" height="409"/>
+	<SubTexture name="far bg0022" x="1127" y="2224" width="1097" height="409"/>
+	<SubTexture name="far bg0023" x="1127" y="2224" width="1097" height="409"/>
+	<SubTexture name="far bg0024" x="1127" y="2224" width="1097" height="409"/>
+	<SubTexture name="far bg0025" x="1127" y="2224" width="1097" height="409"/>
+	<SubTexture name="far bg0026" x="2254" y="2224" width="1097" height="409"/>
+	<SubTexture name="far bg0027" x="2254" y="2224" width="1097" height="409"/>
+	<SubTexture name="far bg0028" x="0" y="2663" width="1097" height="397" frameX="0" frameY="-12" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0029" x="0" y="2663" width="1097" height="397" frameX="0" frameY="-12" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0030" x="0" y="2663" width="1097" height="397" frameX="0" frameY="-12" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0031" x="0" y="2663" width="1097" height="397" frameX="0" frameY="-12" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0032" x="0" y="2663" width="1097" height="397" frameX="0" frameY="-12" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0033" x="0" y="2663" width="1097" height="397" frameX="0" frameY="-12" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0034" x="0" y="2663" width="1097" height="397" frameX="0" frameY="-12" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0035" x="1127" y="2663" width="1097" height="397" frameX="0" frameY="-12" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="far bg0036" x="1127" y="2663" width="1097" height="397" frameX="0" frameY="-12" frameWidth="1097" frameHeight="409"/>
+	<SubTexture name="hiro0000" x="2254" y="2663" width="535" height="475" frameX="-4" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0001" x="2254" y="2663" width="535" height="475" frameX="-4" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0002" x="2819" y="2663" width="542" height="483"/>
+	<SubTexture name="hiro0003" x="2819" y="2663" width="542" height="483"/>
+	<SubTexture name="hiro0004" x="3391" y="2663" width="538" height="475" frameX="-2" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0005" x="3391" y="2663" width="538" height="475" frameX="-2" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0006" x="0" y="3176" width="536" height="475" frameX="-3" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0007" x="0" y="3176" width="536" height="475" frameX="-3" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0008" x="566" y="3176" width="536" height="475" frameX="-3" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0009" x="566" y="3176" width="536" height="475" frameX="-3" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0010" x="1132" y="3176" width="536" height="475" frameX="-3" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0011" x="1132" y="3176" width="536" height="475" frameX="-3" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0012" x="1132" y="3176" width="536" height="475" frameX="-3" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="hiro0013" x="1132" y="3176" width="536" height="475" frameX="-3" frameY="-4" frameWidth="542" frameHeight="483"/>
+	<SubTexture name="mount0000" x="1698" y="3176" width="1025" height="473"/>
+</TextureAtlas>

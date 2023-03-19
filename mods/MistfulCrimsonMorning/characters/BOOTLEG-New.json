@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-38
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bootleg_spongebob down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-38
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bootleg_spongebob left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-38
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bootleg_spongebob right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				79,
+				-38
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bootleg_spongebob idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-38
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bootleg_spongebob up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bootleg_spongebobyy",
+	"position": [
+		-200,
+		-250
+	],
+	"healthicon": "bootleg",
+	"flip_x": false,
+	"healthbar_colors": [
+		220,
+		210,
+		138
+	],
+	"camera_position": [
+		-230,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

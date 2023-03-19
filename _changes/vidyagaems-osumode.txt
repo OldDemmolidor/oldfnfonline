@@ -1,0 +1,18 @@
+mods/data/vidyagaems/mod.txt
+mods/data/vidyagaems/vidyagaems-hard.json
+mods/VSVTan/stages/VTanStage.json
+mods/VSVTan/stages/VTanStage.lua
+mods/VSVTan/custom_events/Set Cam Zoom.lua
+mods/VSVTan/custom_events/Cinematics (OverLap).lua
+mods/VSVTan/scripts/cam.lua
+mods/VSVTan/scripts/Debug_Keys.lua
+mods/VSVTan/scripts/KadeEngineComplexAccWithTimings.lua
+mods/VSVTan/scripts/Rating.lua
+mods/VSVTan/scripts/Score.lua
+mods/VSVTan/scripts/Super_Hugo's Stage Editor V1.6.3.lua
+mods/VSVTan/scripts/timebarfucked.lua
+mods/VSVTan/scripts/trailDoubleNote.lua
+mods/songs/vidyagaems/Voices.ogg
+mods/songs/vidyagaems/voices.ogg
+mods/songs/vidyagaems/Inst.ogg
+mods/songs/vidyagaems/inst.ogg

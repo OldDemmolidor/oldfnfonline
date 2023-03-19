@@ -1,0 +1,14 @@
+mods/data/joe-mama/joe-mama-hard.json
+mods/data/joe-mama/mod.txt
+mods/MistfulCrimsonMorning/stages/void.json
+mods/MistfulCrimsonMorning/stages/void.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/songs/joe-mama/Voices.ogg
+mods/songs/joe-mama/voices.ogg
+mods/songs/joe-mama/Inst.ogg
+mods/songs/joe-mama/inst.ogg

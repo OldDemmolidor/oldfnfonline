@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-193,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lef"
+		},
+		{
+			"offsets": [
+				-21,
+				-238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-76,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-139,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yarlowdnasu",
+	"position": [
+		-230,
+		200
+	],
+	"healthicon": "yarlowicon",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		204,
+		55
+	],
+	"camera_position": [
+		-40,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 0
+}

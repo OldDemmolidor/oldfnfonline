@@ -1,0 +1,45 @@
+mods/data/judgement-day/judgement-day-hard.json
+mods/data/judgement-day/mod.txt
+mods/MistfulCrimsonMorning/characters/bf.json
+mods/MistfulCrimsonMorning/characters/phase2alt.json
+mods/MistfulCrimsonMorning/characters/DEAD HOPE SPONG.json
+mods/MistfulCrimsonMorning/stages/surgery.json
+mods/MistfulCrimsonMorning/stages/surgery.lua
+mods/MistfulCrimsonMorning/images/characters/BOYFRIEND.png
+mods/MistfulCrimsonMorning/images/characters/BOYFRIEND.xml
+mods/MistfulCrimsonMorning/images/characters/phase2alt_sprites.png
+mods/MistfulCrimsonMorning/images/characters/phase2alt_sprites.xml
+mods/MistfulCrimsonMorning/images/characters/Dead Hope Spong.png
+mods/MistfulCrimsonMorning/images/characters/Dead Hope Spong.xml
+mods/MistfulCrimsonMorning/characters/robotchicken-kr.json
+mods/MistfulCrimsonMorning/images/characters/largespritesheets/Krabs.png
+mods/MistfulCrimsonMorning/images/characters/largespritesheets/Krabs.xml
+mods/MistfulCrimsonMorning/characters/doomsday_squidward.json
+mods/MistfulCrimsonMorning/images/characters/DOOMSDAY_SQUIDWARD.png
+mods/MistfulCrimsonMorning/images/characters/DOOMSDAY_SQUIDWARD.xml
+mods/MistfulCrimsonMorning/custom_events/Bopping HUD.lua
+mods/MistfulCrimsonMorning/custom_events/Goodbye Hud.lua
+mods/MistfulCrimsonMorning/custom_events/Health Drain.lua
+mods/MistfulCrimsonMorning/custom_events/Light.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/MistfulCrimsonMorning/images/background/surgery/dark/wall.png
+mods/MistfulCrimsonMorning/images/background/surgery/dark/light.png
+mods/MistfulCrimsonMorning/images/background/surgery/wall.png
+mods/MistfulCrimsonMorning/images/background/surgery/floor.png
+mods/MistfulCrimsonMorning/images/background/surgery/table.png
+mods/MistfulCrimsonMorning/images/background/surgery/light.png
+mods/MistfulCrimsonMorning/images/background/surgery/phase2/DeadHallway.png
+mods/MistfulCrimsonMorning/images/background/surgery/phase2/DeadHallway.xml
+mods/MistfulCrimsonMorning/images/background/surgery/phase2/BF_BODY.png
+mods/MistfulCrimsonMorning/images/background/surgery/phase2/BF_BODY.xml
+mods/MistfulCrimsonMorning/images/EngineStuff/NoteCombo.png
+mods/MistfulCrimsonMorning/images/EngineStuff/coolhealthborder.png
+mods/MistfulCrimsonMorning/images/EngineStuff/coolhealthbar.png
+mods/MistfulCrimsonMorning/images/EngineStuff/NoteCombo.xml
+mods/songs/judgement-day/Inst.ogg
+mods/songs/judgement-day/inst.ogg

@@ -1,0 +1,4 @@
+Flashes your screen
+
+Value 1: Flash color (1 - black, 2 - white, 3 - purple)
+Value 2: Flash duration in seconds

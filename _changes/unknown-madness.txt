@@ -1,0 +1,55 @@
+mods/data/unknown-madness/mod.txt
+mods/data/unknown-madness/unknown-madness-sad.json
+mods/maxsad/characters/loser troll.json
+mods/maxsad/characters/max happy.json
+mods/maxsad/characters/old gf.json
+mods/maxsad/stages/max_house.json
+mods/maxsad/stages/max_house.lua
+mods/maxsad/images/characters/loser troll ha ha.png
+mods/maxsad/images/characters/loser troll ha ha.xml
+mods/maxsad/images/characters/max happy.png
+mods/maxsad/images/characters/max happy.xml
+mods/maxsad/images/characters/old gf.png
+mods/maxsad/images/characters/old gf.xml
+mods/maxsad/characters/max insane.json
+mods/maxsad/images/characters/insane max.png
+mods/maxsad/images/characters/insane max.xml
+mods/maxsad/characters/old gf dead.json
+mods/maxsad/images/characters/old is dead bua.png
+mods/maxsad/images/characters/old is dead bua.xml
+mods/maxsad/custom_notetypes/Warning Note.lua
+mods/maxsad/custom_notetypes/vineboom.lua
+mods/maxsad/custom_events/Goodbye Hud.lua
+mods/maxsad/custom_events/blackVG.lua
+mods/maxsad/custom_events/Image Flash.lua
+mods/maxsad/custom_events/Color Flash.lua
+mods/maxsad/custom_events/Set CamZoom.lua
+mods/maxsad/custom_events/BlackOut.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/images/Stages/tress.png
+mods/maxsad/images/Stages/walls.png
+mods/maxsad/images/Stages/floor.png
+mods/maxsad/images/Stages/things.png
+mods/maxsad/images/mechanics/WARNING.png
+mods/maxsad/images/mechanics/WARNING.xml
+mods/maxsad/images/mechanics/vineboom.png
+mods/maxsad/images/mechanics/vineboom.xml
+mods/maxsad/images/mechanics/boom.png
+mods/maxsad/images/blackVG.png
+mods/maxsad/fonts/vcr.ttf
+mods/maxsad/images/enginestuff/NoteCombo.png
+mods/maxsad/images/enginestuff/coolhealthborder.png
+mods/maxsad/images/enginestuff/coolhealthbar.png
+mods/maxsad/images/enginestuff/NoteCombo.xml
+mods/songs/unknown-madness/Voices.ogg
+mods/songs/unknown-madness/voices.ogg
+mods/songs/unknown-madness/Inst.ogg
+mods/songs/unknown-madness/inst.ogg

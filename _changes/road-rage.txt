@@ -1,0 +1,28 @@
+mods/data/road-rage/mod.txt
+mods/data/road-rage/road-rage-hard.json
+mods/MistfulCrimsonMorning/characters/dieselsponge.json
+mods/MistfulCrimsonMorning/characters/Furnace.json
+mods/MistfulCrimsonMorning/characters/gf-no.json
+mods/MistfulCrimsonMorning/stages/stage.json
+mods/MistfulCrimsonMorning/images/characters/xomlet.png
+mods/MistfulCrimsonMorning/images/characters/xomlet.xml
+mods/MistfulCrimsonMorning/images/characters/Furnace_sheet.png
+mods/MistfulCrimsonMorning/images/characters/Furnace_sheet.xml
+mods/MistfulCrimsonMorning/images/characters/GF_assets.png
+mods/MistfulCrimsonMorning/images/characters/GF_assets.xml
+mods/MistfulCrimsonMorning/custom_events/Flash.lua
+mods/MistfulCrimsonMorning/custom_events/Must Press Swap.lua
+mods/MistfulCrimsonMorning/custom_events/Cinematic Bars.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/MistfulCrimsonMorning/images/None.png
+mods/MistfulCrimsonMorning/images/EngineStuff/NoteCombo.png
+mods/MistfulCrimsonMorning/images/EngineStuff/coolhealthborder.png
+mods/MistfulCrimsonMorning/images/EngineStuff/coolhealthbar.png
+mods/MistfulCrimsonMorning/images/EngineStuff/NoteCombo.xml
+mods/songs/road-rage/Inst.ogg
+mods/songs/road-rage/inst.ogg

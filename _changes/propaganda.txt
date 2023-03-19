@@ -1,0 +1,37 @@
+mods/data/propaganda/mod.txt
+mods/data/propaganda/propaganda-hard.json
+mods/MistfulCrimsonMorning/characters/spongebobcage.json
+mods/MistfulCrimsonMorning/characters/reagan.json
+mods/MistfulCrimsonMorning/characters/gf.json
+mods/MistfulCrimsonMorning/stages/propaganda.json
+mods/MistfulCrimsonMorning/stages/propaganda.lua
+mods/MistfulCrimsonMorning/images/characters/propaganda/spongebob.png
+mods/MistfulCrimsonMorning/images/characters/propaganda/spongebob.xml
+mods/MistfulCrimsonMorning/images/characters/propaganda/Reagan.png
+mods/MistfulCrimsonMorning/images/characters/propaganda/Reagan.xml
+mods/MistfulCrimsonMorning/images/characters/GF_FinishedREAL.png
+mods/MistfulCrimsonMorning/images/characters/GF_FinishedREAL.xml
+mods/MistfulCrimsonMorning/characters/reaganYellow.json
+mods/MistfulCrimsonMorning/images/characters/propaganda/yellow_code.png
+mods/MistfulCrimsonMorning/images/characters/propaganda/yellow_code.xml
+mods/MistfulCrimsonMorning/custom_events/Bopping HUD.lua
+mods/MistfulCrimsonMorning/custom_events/Health Drain.lua
+mods/MistfulCrimsonMorning/custom_events/Flash.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/MistfulCrimsonMorning/images/mcm/stages/propaganda/propaganda.png
+mods/MistfulCrimsonMorning/images/mcm/stages/propaganda/ford.png
+mods/MistfulCrimsonMorning/images/mcm/stages/propaganda/ford.xml
+mods/MistfulCrimsonMorning/images/None.png
+mods/MistfulCrimsonMorning/images/EngineStuff/NoteCombo.png
+mods/MistfulCrimsonMorning/images/EngineStuff/coolhealthborder.png
+mods/MistfulCrimsonMorning/images/EngineStuff/coolhealthbar.png
+mods/MistfulCrimsonMorning/images/EngineStuff/NoteCombo.xml
+mods/songs/propaganda/Voices.ogg
+mods/songs/propaganda/voices.ogg
+mods/songs/propaganda/Inst.ogg
+mods/songs/propaganda/inst.ogg

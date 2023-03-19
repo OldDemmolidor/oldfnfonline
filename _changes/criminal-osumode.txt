@@ -1,0 +1,12 @@
+mods/data/criminal/credits.lua
+mods/data/criminal/criminal-hard.json
+mods/data/criminal/drain.lua
+mods/data/criminal/mod.txt
+mods/data/criminal/script.lua
+mods/NO-MORE-INNOCENCE/scripts/cameraMovement.lua
+mods/NO-MORE-INNOCENCE/scripts/custom-gameover.lua
+mods/NO-MORE-INNOCENCE/scripts/LMAO.lua
+mods/songs/criminal/Voices.ogg
+mods/songs/criminal/voices.ogg
+mods/songs/criminal/Inst.ogg
+mods/songs/criminal/inst.ogg

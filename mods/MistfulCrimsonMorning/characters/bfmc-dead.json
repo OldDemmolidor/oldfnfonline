@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				107,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "die"
+		},
+		{
+			"offsets": [
+				107,
+				37
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "boing"
+		},
+		{
+			"offsets": [
+				107,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "boing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mcbf",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "bfmc",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		121,
+		199
+	],
+	"camera_position": [
+		-230,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

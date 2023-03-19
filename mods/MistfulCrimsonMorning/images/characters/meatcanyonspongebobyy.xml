@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="meatcanyonspongebob.png">
+<SubTexture name="meatcanyonspongebob down0000" x="0" y="3252" width="897" height="504" frameX="-505" frameY="-499" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob down0001" x="2874" y="2587" width="880" height="541" frameX="-523" frameY="-462" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob down0002" x="2005" y="2587" width="869" height="569" frameX="-533" frameY="-434" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob idle0000" x="1336" y="2587" width="669" height="655" frameX="-591" frameY="-338" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob idle0001" x="668" y="2587" width="668" height="659" frameX="-603" frameY="-334" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob idle0002" x="0" y="2587" width="668" height="665" frameX="-615" frameY="-328" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob left0000" x="923" y="998" width="1257" height="717" frameX="-120" frameY="-301" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob left0001" x="0" y="1870" width="1176" height="717" frameX="-204" frameY="-301" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob left0002" x="1176" y="1870" width="1119" height="717" frameX="-262" frameY="-301" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob right0000" x="2759" y="0" width="1533" height="699" frameX="-196" frameY="-299" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob right0001" x="2759" y="699" width="1423" height="699" frameX="-248" frameY="-299" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob right0002" x="2759" y="1398" width="1355" height="699" frameX="-283" frameY="-299" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob up0000" x="0" y="0" width="918" height="998" frameX="-583" frameY="-3" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob up0001" x="918" y="0" width="919" height="955" frameX="-583" frameY="-46" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob up0002" x="1837" y="0" width="922" height="910" frameX="-583" frameY="-91" frameWidth="1932" frameHeight="1163" />
+<SubTexture name="meatcanyonspongebob up0003" x="0" y="998" width="923" height="872" frameX="-583" frameY="-129" frameWidth="1932" frameHeight="1163" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-220
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "max idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-201
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "max left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-370
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "max down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-95
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "max up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-200
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "max right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/max com medinho",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "max-sad-new",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		127,
+		39
+	],
+	"camera_position": [
+		100,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

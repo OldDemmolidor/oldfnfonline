@@ -1,0 +1,15 @@
+mods/data/tortured/mod.txt
+mods/data/tortured/script.lua
+mods/data/tortured/tortured-hard.json
+mods/MistfulCrimsonMorning/stages/tortured.json
+mods/MistfulCrimsonMorning/stages/tortured.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/songs/tortured/Voices.ogg
+mods/songs/tortured/voices.ogg
+mods/songs/tortured/Inst.ogg
+mods/songs/tortured/inst.ogg

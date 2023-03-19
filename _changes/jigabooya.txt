@@ -1,0 +1,17 @@
+mods/data/jigabooya/jigabooya-hard.json
+mods/data/jigabooya/mod.txt
+mods/VSVTan/characters/v-mic.json
+mods/VSVTan/images/characters/v-mic.png
+mods/VSVTan/images/characters/v-mic.xml
+mods/VSVTan/scripts/cam.lua
+mods/VSVTan/scripts/Debug_Keys.lua
+mods/VSVTan/scripts/KadeEngineComplexAccWithTimings.lua
+mods/VSVTan/scripts/Rating.lua
+mods/VSVTan/scripts/Score.lua
+mods/VSVTan/scripts/Super_Hugo's Stage Editor V1.6.3.lua
+mods/VSVTan/scripts/timebarfucked.lua
+mods/VSVTan/scripts/trailDoubleNote.lua
+mods/songs/jigabooya/Voices.ogg
+mods/songs/jigabooya/voices.ogg
+mods/songs/jigabooya/Inst.ogg
+mods/songs/jigabooya/inst.ogg

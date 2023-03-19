@@ -1,0 +1,57 @@
+mods/data/bold-or-brash/BarFear.lua
+mods/data/bold-or-brash/bold-or-brash-cum.json
+mods/data/bold-or-brash/bold-or-brash-hard.json
+mods/data/bold-or-brash/bold-or-brash-trash.json
+mods/data/bold-or-brash/girlfriend.lua
+mods/data/bold-or-brash/mod.txt
+mods/MistfulCrimsonMorning/characters/mrKrabs.json
+mods/MistfulCrimsonMorning/characters/starvedSquidward.json
+mods/MistfulCrimsonMorning/characters/gf-no.json
+mods/MistfulCrimsonMorning/stages/chamber.json
+mods/MistfulCrimsonMorning/stages/chamber.lua
+mods/MistfulCrimsonMorning/images/characters/starved/mr_krabs.png
+mods/MistfulCrimsonMorning/images/characters/starved/mr_krabs.xml
+mods/MistfulCrimsonMorning/images/characters/starved/starved_squidward.png
+mods/MistfulCrimsonMorning/images/characters/starved/starved_squidward.xml
+mods/MistfulCrimsonMorning/images/characters/GF_assets.png
+mods/MistfulCrimsonMorning/images/characters/GF_assets.xml
+mods/MistfulCrimsonMorning/characters/starvedSquidward-flauta.json
+mods/MistfulCrimsonMorning/images/characters/starved/starved_squidward-flauta.png
+mods/MistfulCrimsonMorning/images/characters/starved/starved_squidward-flauta.xml
+mods/MistfulCrimsonMorning/characters/starvedPlankton.json
+mods/MistfulCrimsonMorning/images/characters/starved/starved_plankton.png
+mods/MistfulCrimsonMorning/images/characters/starved/starved_plankton.xml
+mods/MistfulCrimsonMorning/characters/starvedSquidward-alt.json
+mods/MistfulCrimsonMorning/characters/guitarbf.json
+mods/MistfulCrimsonMorning/characters/BOOTLEG.json
+mods/MistfulCrimsonMorning/stages/dumped.json
+mods/MistfulCrimsonMorning/stages/dumped.lua
+mods/MistfulCrimsonMorning/images/characters/guitarBF.png
+mods/MistfulCrimsonMorning/images/characters/guitarBF.xml
+mods/MistfulCrimsonMorning/images/characters/BOOTLEG.png
+mods/MistfulCrimsonMorning/images/characters/BOOTLEG.xml
+mods/MistfulCrimsonMorning/custom_events/Goodbye Hud.lua
+mods/MistfulCrimsonMorning/custom_events/Flash.lua
+mods/MistfulCrimsonMorning/custom_events/lyrics.lua
+mods/MistfulCrimsonMorning/custom_events/Better Cinematics.lua
+mods/MistfulCrimsonMorning/custom_events/Cam Zoom Tween.lua
+mods/MistfulCrimsonMorning/custom_events/Blammed Lights.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/MistfulCrimsonMorning/images/mcm/stages/starved/chamber/sky.png
+mods/MistfulCrimsonMorning/images/mcm/stages/starved/chamber/inside.png
+mods/MistfulCrimsonMorning/images/mcm/stages/starved/chamber/dead.png
+mods/MistfulCrimsonMorning/images/mcm/stages/starved/chamber/chain.png
+mods/MistfulCrimsonMorning/images/background/dumped/light.png
+mods/MistfulCrimsonMorning/images/background/dumped/room.png
+mods/MistfulCrimsonMorning/images/None.png
+mods/MistfulCrimsonMorning/images/EngineStuff/NoteCombo.png
+mods/MistfulCrimsonMorning/images/EngineStuff/coolhealthborder.png
+mods/MistfulCrimsonMorning/images/EngineStuff/coolhealthbar.png
+mods/MistfulCrimsonMorning/images/EngineStuff/NoteCombo.xml
+mods/songs/bold-or-brash/Inst.ogg
+mods/songs/bold-or-brash/inst.ogg

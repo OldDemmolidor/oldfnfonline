@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-310
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "troll_right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-568
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "troll_down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-181
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "troll_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-311
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "troll_left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-98,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "troll_up miss0"
+		},
+		{
+			"offsets": [
+				-71,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "troll_left miss0"
+		},
+		{
+			"offsets": [
+				-36,
+				-568
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "troll_down miss0"
+		},
+		{
+			"offsets": [
+				32,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "troll_right miss0"
+		},
+		{
+			"offsets": [
+				220,
+				-310
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "troll_idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/l0ser troll",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "max-l0ser",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-60,
+		510
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

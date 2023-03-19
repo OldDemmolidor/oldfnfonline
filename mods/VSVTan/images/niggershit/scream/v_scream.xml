@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="v_scream.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="심볼 280000" x="0" y="0" width="1376" height="658" pivotX="688" pivotY="360.3" frameX="0" frameY="-40" frameWidth="1376" frameHeight="706"/>
+	<SubTexture name="심볼 280001" x="1377" y="0" width="1376" height="687" frameX="0" frameY="-19" frameWidth="1376" frameHeight="706"/>
+	<SubTexture name="심볼 280002" x="0" y="688" width="1376" height="698" frameX="0" frameY="0" frameWidth="1376" frameHeight="706"/>
+	<SubTexture name="심볼 280003" x="1377" y="688" width="1376" height="706"/>
+	<SubTexture name="심볼 280004" x="0" y="1395" width="1376" height="698" frameX="0" frameY="0" frameWidth="1376" frameHeight="706"/>
+	<SubTexture name="심볼 280005" x="1377" y="1395" width="1376" height="706"/>
+</TextureAtlas>

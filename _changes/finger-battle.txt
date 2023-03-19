@@ -1,0 +1,39 @@
+mods/data/finger-battle/finger-battle-extra.json
+mods/data/finger-battle/mod.txt
+mods/maxsad/characters/loser troll.json
+mods/maxsad/characters/lepel.json
+mods/maxsad/characters/old gf.json
+mods/maxsad/stages/max_house.json
+mods/maxsad/stages/max_house.lua
+mods/maxsad/images/characters/loser troll ha ha.png
+mods/maxsad/images/characters/loser troll ha ha.xml
+mods/maxsad/images/characters/lepe.png
+mods/maxsad/images/characters/lepe.xml
+mods/maxsad/images/characters/old gf.png
+mods/maxsad/images/characters/old gf.xml
+mods/maxsad/characters/wtf.json
+mods/maxsad/images/characters/ExpungedFinal.png
+mods/maxsad/images/characters/ExpungedFinal.xml
+mods/maxsad/custom_events/Set CamZoom.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/images/Stages/tress.png
+mods/maxsad/images/Stages/walls.png
+mods/maxsad/images/Stages/floor.png
+mods/maxsad/images/Stages/things.png
+mods/maxsad/fonts/vcr.ttf
+mods/maxsad/images/enginestuff/NoteCombo.png
+mods/maxsad/images/enginestuff/coolhealthborder.png
+mods/maxsad/images/enginestuff/coolhealthbar.png
+mods/maxsad/images/enginestuff/NoteCombo.xml
+mods/songs/finger-battle/Voices.ogg
+mods/songs/finger-battle/voices.ogg
+mods/songs/finger-battle/Inst.ogg
+mods/songs/finger-battle/inst.ogg

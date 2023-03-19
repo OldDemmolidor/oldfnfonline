@@ -1,0 +1,9 @@
+mods/data/Irrational-Cruelty/credits.lua
+mods/data/Irrational-Cruelty/mod.txt
+mods/data/Irrational-Cruelty/sh-MS.lua
+mods/data/Irrational-Cruelty/Vertical HP Bar.lua
+mods/NO-MORE-INNOCENCE/scripts/cameraMovement.lua
+mods/NO-MORE-INNOCENCE/scripts/custom-gameover.lua
+mods/NO-MORE-INNOCENCE/scripts/LMAO.lua
+mods/songs/Irrational-Cruelty/Inst.ogg
+mods/songs/Irrational-Cruelty/inst.ogg

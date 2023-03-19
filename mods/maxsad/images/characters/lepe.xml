@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lepe.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down_lep0000" x="0" y="0" width="1780" height="772" frameX="0" frameY="-28" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0001" x="0" y="0" width="1780" height="772" frameX="0" frameY="-28" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0002" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0003" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0004" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0005" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0006" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0007" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0008" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0009" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0010" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0011" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0012" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0013" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="down_lep0014" x="1780" y="0" width="1756" height="800" frameX="-12" frameY="0" frameWidth="1780" frameHeight="800"/>
+	<SubTexture name="hey_lep0000" x="3536" y="0" width="1383" height="1264"/>
+	<SubTexture name="hey_lep0001" x="3536" y="0" width="1383" height="1264"/>
+	<SubTexture name="hey_lep0002" x="4919" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0003" x="4919" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0004" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0005" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0006" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0007" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0008" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0009" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0010" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0011" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0012" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0013" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="hey_lep0014" x="6290" y="0" width="1371" height="1264" frameX="0" frameY="0" frameWidth="1383" frameHeight="1264"/>
+	<SubTexture name="idle_lep0000" x="0" y="1264" width="1457" height="1188" frameX="0" frameY="-76" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0001" x="0" y="1264" width="1457" height="1188" frameX="0" frameY="-76" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0002" x="1457" y="1264" width="1416" height="1204" frameX="-20" frameY="-60" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0003" x="1457" y="1264" width="1416" height="1204" frameX="-20" frameY="-60" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0004" x="2873" y="1264" width="1416" height="1208" frameX="-20" frameY="-56" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0005" x="2873" y="1264" width="1416" height="1208" frameX="-20" frameY="-56" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0006" x="4289" y="1264" width="1376" height="1260" frameX="-40" frameY="-4" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0007" x="4289" y="1264" width="1376" height="1260" frameX="-40" frameY="-4" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0008" x="5665" y="1264" width="1368" height="1264" frameX="-44" frameY="0" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0009" x="5665" y="1264" width="1368" height="1264" frameX="-44" frameY="0" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0010" x="5665" y="1264" width="1368" height="1264" frameX="-44" frameY="0" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0011" x="5665" y="1264" width="1368" height="1264" frameX="-44" frameY="0" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0012" x="5665" y="1264" width="1368" height="1264" frameX="-44" frameY="0" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0013" x="5665" y="1264" width="1368" height="1264" frameX="-44" frameY="0" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="idle_lep0014" x="5665" y="1264" width="1368" height="1264" frameX="-44" frameY="0" frameWidth="1457" frameHeight="1264"/>
+	<SubTexture name="left_lep0000" x="0" y="2528" width="1402" height="1264" frameX="-1" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0001" x="0" y="2528" width="1402" height="1264" frameX="-1" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0002" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0003" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0004" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0005" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0006" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0007" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0008" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0009" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0010" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0011" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0012" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0013" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="left_lep0014" x="1402" y="2528" width="1369" height="1264" frameX="0" frameY="0" frameWidth="1403" frameHeight="1264"/>
+	<SubTexture name="right_lep0000" x="2771" y="2528" width="1544" height="1264"/>
+	<SubTexture name="right_lep0001" x="2771" y="2528" width="1544" height="1264"/>
+	<SubTexture name="right_lep0002" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0003" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0004" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0005" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0006" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0007" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0008" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0009" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0010" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0011" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0012" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0013" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="right_lep0014" x="4315" y="2528" width="1528" height="1264" frameX="-16" frameY="0" frameWidth="1544" frameHeight="1264"/>
+	<SubTexture name="up_lep0000" x="5843" y="2528" width="614" height="1077" frameX="-16" frameY="0" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0001" x="5843" y="2528" width="614" height="1077" frameX="-16" frameY="0" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0002" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0003" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0004" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0005" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0006" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0007" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0008" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0009" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0010" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0011" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0012" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0013" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+	<SubTexture name="up_lep0014" x="6457" y="2528" width="646" height="1049" frameX="0" frameY="-28" frameWidth="646" frameHeight="1077"/>
+</TextureAtlas>

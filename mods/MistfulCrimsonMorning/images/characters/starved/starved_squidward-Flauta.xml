@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starved_squidward-Flauta.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down-Flauta0000" x="0" y="0" width="295" height="708" frameX="0" frameY="-27" frameWidth="295" frameHeight="735"/>
+	<SubTexture name="Down-Flauta0001" x="0" y="0" width="295" height="708" frameX="0" frameY="-27" frameWidth="295" frameHeight="735"/>
+	<SubTexture name="Down-Flauta0002" x="295" y="0" width="295" height="721" frameX="0" frameY="-14" frameWidth="295" frameHeight="735"/>
+	<SubTexture name="Down-Flauta0003" x="295" y="0" width="295" height="721" frameX="0" frameY="-14" frameWidth="295" frameHeight="735"/>
+	<SubTexture name="Down-Flauta0004" x="590" y="0" width="295" height="735"/>
+	<SubTexture name="Left-Flauta0000" x="885" y="0" width="308" height="707" frameX="0" frameY="0" frameWidth="309" frameHeight="707"/>
+	<SubTexture name="Left-Flauta0001" x="885" y="0" width="308" height="707" frameX="0" frameY="0" frameWidth="309" frameHeight="707"/>
+	<SubTexture name="Left-Flauta0002" x="1193" y="0" width="296" height="707" frameX="-13" frameY="0" frameWidth="309" frameHeight="707"/>
+	<SubTexture name="Left-Flauta0003" x="1193" y="0" width="296" height="707" frameX="-13" frameY="0" frameWidth="309" frameHeight="707"/>
+	<SubTexture name="Left-Flauta0004" x="1489" y="0" width="288" height="707" frameX="-21" frameY="0" frameWidth="309" frameHeight="707"/>
+	<SubTexture name="Right-Flauta0000" x="1777" y="0" width="529" height="688"/>
+	<SubTexture name="Right-Flauta0001" x="1777" y="0" width="529" height="688"/>
+	<SubTexture name="Right-Flauta0002" x="2306" y="0" width="511" height="688" frameX="0" frameY="0" frameWidth="529" frameHeight="688"/>
+	<SubTexture name="Right-Flauta0003" x="2306" y="0" width="511" height="688" frameX="0" frameY="0" frameWidth="529" frameHeight="688"/>
+	<SubTexture name="Right-Flauta0004" x="2817" y="0" width="500" height="688" frameX="0" frameY="0" frameWidth="529" frameHeight="688"/>
+	<SubTexture name="Up-Flauta0000" x="3317" y="0" width="338" height="738" frameX="0" frameY="0" frameWidth="338" frameHeight="739"/>
+	<SubTexture name="Up-Flauta0001" x="3317" y="0" width="338" height="738" frameX="0" frameY="0" frameWidth="338" frameHeight="739"/>
+	<SubTexture name="Up-Flauta0002" x="3655" y="0" width="338" height="728" frameX="0" frameY="-10" frameWidth="338" frameHeight="739"/>
+	<SubTexture name="Up-Flauta0003" x="3655" y="0" width="338" height="728" frameX="0" frameY="-10" frameWidth="338" frameHeight="739"/>
+	<SubTexture name="Up-Flauta0004" x="0" y="738" width="338" height="718" frameX="0" frameY="-21" frameWidth="338" frameHeight="739"/>
+</TextureAtlas>

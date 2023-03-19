@@ -1,0 +1,11 @@
+mods/data/dlowing/dlowing-normal.json
+mods/data/dlowing/mod.txt
+mods/Dlowing2.0/stages/dlowingt.json
+mods/Dlowing2.0/stages/dlowingt.lua
+mods/Dlowing2.0/scripts/v4-ui.lua
+mods/Dlowing2.0/fonts/vcr-v4.ttf
+mods/Dlowing2.0/fonts/arial-v4.ttf
+mods/songs/dlowing/Voices.ogg
+mods/songs/dlowing/voices.ogg
+mods/songs/dlowing/Inst.ogg
+mods/songs/dlowing/inst.ogg

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "starved_idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "starved_left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "starved_down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				62
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "starved_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "starved_right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starved",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "starved",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		7,
+		0
+	],
+	"camera_position": [
+		-260,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

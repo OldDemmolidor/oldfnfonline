@@ -1,0 +1,36 @@
+mods/data/web-sex/Cinematic.lua
+mods/data/web-sex/mod.txt
+mods/data/web-sex/web-sex-extra.json
+mods/maxsad/characters/max com medinho.json
+mods/maxsad/characters/loser safada.json
+mods/maxsad/characters/lol.json
+mods/maxsad/stages/next bot.json
+mods/maxsad/stages/next bot.lua
+mods/maxsad/images/characters/max com medinho.png
+mods/maxsad/images/characters/max com medinho.xml
+mods/maxsad/images/characters/loser safada.png
+mods/maxsad/images/characters/loser safada.xml
+mods/maxsad/images/characters/k.png
+mods/maxsad/images/characters/k.xml
+mods/maxsad/custom_events/Goodbye Hud.lua
+mods/maxsad/custom_events/Set CamZoom.lua
+mods/maxsad/custom_events/BlackOut.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/images/Stages/roblox.png
+mods/maxsad/fonts/vcr.ttf
+mods/maxsad/images/enginestuff/NoteCombo.png
+mods/maxsad/images/enginestuff/coolhealthborder.png
+mods/maxsad/images/enginestuff/coolhealthbar.png
+mods/maxsad/images/enginestuff/NoteCombo.xml
+mods/songs/web-sex/Voices.ogg
+mods/songs/web-sex/voices.ogg
+mods/songs/web-sex/Inst.ogg
+mods/songs/web-sex/inst.ogg

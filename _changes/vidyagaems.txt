@@ -1,0 +1,33 @@
+mods/data/vidyagaems/mod.txt
+mods/data/vidyagaems/vidyagaems-hard.json
+mods/VSVTan/characters/bf-vidya.json
+mods/VSVTan/characters/v-rage.json
+mods/VSVTan/characters/gf-v.json
+mods/VSVTan/stages/VTanStage.json
+mods/VSVTan/stages/VTanStage.lua
+mods/VSVTan/images/characters/BoyFriend-v.png
+mods/VSVTan/images/characters/BoyFriend-v.xml
+mods/VSVTan/images/characters/v-rage.png
+mods/VSVTan/images/characters/v-rage.xml
+mods/VSVTan/images/characters/GF-v.png
+mods/VSVTan/images/characters/GF-v.xml
+mods/VSVTan/custom_events/Set Cam Zoom.lua
+mods/VSVTan/custom_events/Cinematics (OverLap).lua
+mods/VSVTan/scripts/cam.lua
+mods/VSVTan/scripts/Debug_Keys.lua
+mods/VSVTan/scripts/KadeEngineComplexAccWithTimings.lua
+mods/VSVTan/scripts/Rating.lua
+mods/VSVTan/scripts/Score.lua
+mods/VSVTan/scripts/Super_Hugo's Stage Editor V1.6.3.lua
+mods/VSVTan/scripts/timebarfucked.lua
+mods/VSVTan/scripts/trailDoubleNote.lua
+mods/VSVTan/images/StageV/whitebg.png
+mods/VSVTan/images/StageV/mountains.png
+mods/VSVTan/images/StageV/homes.png
+mods/VSVTan/images/StageV/ground.png
+mods/VSVTan/images/StageV/backbros/fakemoot.png
+mods/VSVTan/images/StageV/backbros/fakemoot.xml
+mods/songs/vidyagaems/Voices.ogg
+mods/songs/vidyagaems/voices.ogg
+mods/songs/vidyagaems/Inst.ogg
+mods/songs/vidyagaems/inst.ogg

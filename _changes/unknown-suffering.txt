@@ -1,0 +1,59 @@
+mods/data/unknown-suffering/achievementsFC.lua
+mods/data/unknown-suffering/events.json
+mods/UnknownSufferingRemixSester/characters/Mouseman2.json
+mods/UnknownSufferingRemixSester/images/characters/smilering (REANIMATED).png
+mods/UnknownSufferingRemixSester/images/characters/smilering (REANIMATED).xml
+mods/UnknownSufferingRemixSester/characters/nedle.json
+mods/UnknownSufferingRemixSester/images/characters/nedle.png
+mods/UnknownSufferingRemixSester/images/characters/nedle.xml
+mods/UnknownSufferingRemixSester/characters/Mouseman3 (extra).json
+mods/UnknownSufferingRemixSester/images/characters/suicide (EXTRA STUFF).png
+mods/UnknownSufferingRemixSester/images/characters/suicide (EXTRA STUFF).xml
+mods/UnknownSufferingRemixSester/characters/Mouseman3.json
+mods/UnknownSufferingRemixSester/images/characters/suicide (REANIMATED).png
+mods/UnknownSufferingRemixSester/images/characters/suicide (REANIMATED).xml
+mods/UnknownSufferingRemixSester/characters/Mouseman4.json
+mods/UnknownSufferingRemixSester/images/characters/sadge (REANIMATED).png
+mods/UnknownSufferingRemixSester/images/characters/sadge (REANIMATED).xml
+mods/data/unknown-suffering/mod.txt
+mods/data/unknown-suffering/script1.lua
+mods/data/unknown-suffering/script2.lua
+mods/data/unknown-suffering/script3.lua
+mods/data/unknown-suffering/shake go brrrr.lua
+mods/data/unknown-suffering/unknown-suffering-hard.json
+mods/UnknownSufferingRemixSester/characters/bf-retro.json
+mods/UnknownSufferingRemixSester/characters/Mouseman1.json
+mods/UnknownSufferingRemixSester/characters/EXE JENDIGF.json
+mods/UnknownSufferingRemixSester/stages/mousemanstreets.json
+mods/UnknownSufferingRemixSester/stages/mousemanstreets.lua
+mods/UnknownSufferingRemixSester/images/characters/BF_RETRO_(REANIMATED).png
+mods/UnknownSufferingRemixSester/images/characters/BF_RETRO_(REANIMATED).xml
+mods/UnknownSufferingRemixSester/images/characters/smiler (REANIMATED).png
+mods/UnknownSufferingRemixSester/images/characters/smiler (REANIMATED).xml
+mods/UnknownSufferingRemixSester/images/characters/EXE_JENDIGF_ASSETS.png
+mods/UnknownSufferingRemixSester/images/characters/EXE_JENDIGF_ASSETS.xml
+mods/UnknownSufferingRemixSester/custom_notetypes/Nedle Note.lua
+mods/UnknownSufferingRemixSester/custom_events/Watchout que.lua
+mods/UnknownSufferingRemixSester/custom_events/blackoutINSTANT.lua
+mods/UnknownSufferingRemixSester/custom_events/Set Cam Zoom.lua
+mods/UnknownSufferingRemixSester/custom_events/Cam Boom Speed.lua
+mods/UnknownSufferingRemixSester/custom_events/Hud Fade.lua
+mods/UnknownSufferingRemixSester/custom_events/Flash Camera.lua
+mods/UnknownSufferingRemixSester/custom_events/Cinematics.lua
+mods/UnknownSufferingRemixSester/images/mousemanstreets/Destruido.png
+mods/UnknownSufferingRemixSester/images/mousemanstreets/voidshish.png
+mods/UnknownSufferingRemixSester/images/Film_Grain.png
+mods/UnknownSufferingRemixSester/images/Film_Grain.xml
+mods/UnknownSufferingRemixSester/images/Film_Grain_2.png
+mods/UnknownSufferingRemixSester/images/nedle_assets.png
+mods/UnknownSufferingRemixSester/images/nedle_assets.xml
+mods/UnknownSufferingRemixSester/images/nedle_splash.png
+mods/UnknownSufferingRemixSester/images/nedle_splash.xml
+mods/UnknownSufferingRemixSester/sounds/nedle.ogg
+mods/UnknownSufferingRemixSester/images/Watchout.png
+mods/UnknownSufferingRemixSester/images/Watchout.xml
+mods/UnknownSufferingRemixSester/sounds/watchout.ogg
+mods/songs/unknown-suffering/Voices.ogg
+mods/songs/unknown-suffering/voices.ogg
+mods/songs/unknown-suffering/Inst.ogg
+mods/songs/unknown-suffering/inst.ogg

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cunt v cancer hand.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="V cancer hand down0000" x="0" y="0" width="427" height="412" pivotX="191.75" pivotY="210.75"/>
+	<SubTexture name="V cancer hand down0001" x="0" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0002" x="429" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0003" x="429" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0004" x="858" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0005" x="858" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0006" x="1287" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0007" x="1287" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0008" x="1716" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0009" x="1716" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0010" x="2145" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0011" x="2145" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0012" x="2574" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0013" x="2574" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0014" x="3003" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand down0015" x="3003" y="0" width="427" height="412"/>
+	<SubTexture name="V cancer hand idle0000" x="3432" y="0" width="381" height="443" pivotX="170.15" pivotY="224.15"/>
+	<SubTexture name="V cancer hand idle0001" x="3432" y="0" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0002" x="0" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0003" x="0" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0004" x="383" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0005" x="383" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0006" x="766" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0007" x="766" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0008" x="1149" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0009" x="1149" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0010" x="1532" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0011" x="1915" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0012" x="2298" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0013" x="2681" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0014" x="3064" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand idle0015" x="3064" y="445" width="381" height="443"/>
+	<SubTexture name="V cancer hand left0000" x="3447" y="445" width="428" height="564" pivotX="234.4" pivotY="298"/>
+	<SubTexture name="V cancer hand left0001" x="3447" y="445" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0002" x="0" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0003" x="0" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0004" x="430" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0005" x="430" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0006" x="860" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0007" x="860" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0008" x="1290" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0009" x="1290" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0010" x="1720" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0011" x="1720" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0012" x="2150" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0013" x="2150" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0014" x="2580" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand left0015" x="2580" y="1011" width="428" height="564"/>
+	<SubTexture name="V cancer hand right0000" x="3010" y="1011" width="473" height="500" pivotX="220.3" pivotY="248.85"/>
+	<SubTexture name="V cancer hand right0001" x="3010" y="1011" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0002" x="3485" y="1011" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0003" x="3485" y="1011" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0004" x="0" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0005" x="0" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0006" x="475" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0007" x="475" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0008" x="950" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0009" x="950" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0010" x="1425" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0011" x="1425" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0012" x="1900" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0013" x="1900" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0014" x="2375" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand right0015" x="2375" y="1577" width="473" height="500"/>
+	<SubTexture name="V cancer hand up0000" x="2850" y="1577" width="366" height="624" pivotX="157.35" pivotY="305.4"/>
+	<SubTexture name="V cancer hand up0001" x="2850" y="1577" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0002" x="3218" y="1577" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0003" x="3218" y="1577" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0004" x="3586" y="1577" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0005" x="3586" y="1577" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0006" x="0" y="2203" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0007" x="0" y="2203" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0008" x="368" y="2203" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0009" x="368" y="2203" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0010" x="736" y="2203" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0011" x="736" y="2203" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0012" x="1104" y="2203" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0013" x="1104" y="2203" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0014" x="1472" y="2203" width="366" height="624"/>
+	<SubTexture name="V cancer hand up0015" x="1472" y="2203" width="366" height="624"/>
+</TextureAtlas>

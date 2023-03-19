@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cunt cancer bg.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cancer bg0000" x="0" y="0" width="1483" height="868" pivotX="741.45" pivotY="434.95"/>
+	<SubTexture name="cancer bg0001" x="0" y="0" width="1483" height="868"/>
+	<SubTexture name="cancer bg0002" x="1485" y="0" width="1483" height="868"/>
+	<SubTexture name="cancer bg0003" x="1485" y="0" width="1483" height="868"/>
+	<SubTexture name="cancer bg0004" x="0" y="870" width="1483" height="868"/>
+	<SubTexture name="cancer bg0005" x="0" y="870" width="1483" height="868"/>
+</TextureAtlas>

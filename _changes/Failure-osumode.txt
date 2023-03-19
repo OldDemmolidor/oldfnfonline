@@ -1,0 +1,16 @@
+mods/data/Failure/Failure-hard.json
+mods/data/Failure/mod.txt
+mods/data/Failure/NInput.lua
+mods/MistfulCrimsonMorning/stages/bedroom.json
+mods/MistfulCrimsonMorning/stages/bedroom.lua
+mods/MistfulCrimsonMorning/custom_events/Light.lua
+mods/MistfulCrimsonMorning/custom_events/Blammed Lights.lua
+mods/MistfulCrimsonMorning/custom_events/Image Flash.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/songs/Failure/Inst.ogg
+mods/songs/Failure/inst.ogg

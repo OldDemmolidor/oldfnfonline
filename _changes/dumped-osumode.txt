@@ -1,0 +1,15 @@
+mods/data/dumped/dumped-hard.json
+mods/data/dumped/mod.txt
+mods/MistfulCrimsonMorning/stages/dumped.json
+mods/MistfulCrimsonMorning/stages/dumped.lua
+mods/MistfulCrimsonMorning/custom_events/Light.lua
+mods/MistfulCrimsonMorning/scripts/custom-gameover.lua
+mods/MistfulCrimsonMorning/scripts/daHud.lua
+mods/MistfulCrimsonMorning/scripts/iconbop.lua
+mods/MistfulCrimsonMorning/scripts/NInput.lua
+mods/MistfulCrimsonMorning/scripts/ratingNames.lua
+mods/MistfulCrimsonMorning/scripts/Window_Name.lua
+mods/songs/dumped/Voices.ogg
+mods/songs/dumped/voices.ogg
+mods/songs/dumped/Inst.ogg
+mods/songs/dumped/inst.ogg

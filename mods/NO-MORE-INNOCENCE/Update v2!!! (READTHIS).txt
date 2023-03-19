@@ -1,0 +1,10 @@
+Update V2
+
+-new menu 
+-new lyrics 
+-new difficulty
+-5 new song
+-new events
+-new scripts
+-new characters
+-new charts

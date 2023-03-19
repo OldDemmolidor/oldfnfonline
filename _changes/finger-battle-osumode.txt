@@ -1,0 +1,19 @@
+mods/data/finger-battle/finger-battle-extra.json
+mods/data/finger-battle/mod.txt
+mods/maxsad/stages/max_house.json
+mods/maxsad/stages/max_house.lua
+mods/maxsad/custom_events/Set CamZoom.lua
+mods/maxsad/scripts/Change Botplay Text.lua
+mods/maxsad/scripts/custom_rating_names.lua
+mods/maxsad/scripts/daHud.lua
+mods/maxsad/scripts/restoredCombo.lua
+mods/maxsad/scripts/sh 2.lua
+mods/maxsad/scripts/sh.lua
+mods/maxsad/scripts/smoothcam.lua
+mods/maxsad/scripts/SongIntro.lua
+mods/maxsad/scripts/Window_Name.lua
+mods/maxsad/fonts/vcr.ttf
+mods/songs/finger-battle/Voices.ogg
+mods/songs/finger-battle/voices.ogg
+mods/songs/finger-battle/Inst.ogg
+mods/songs/finger-battle/inst.ogg

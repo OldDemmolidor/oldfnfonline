@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-480
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "old dead idle0"
+		},
+		{
+			"offsets": [
+				30,
+				-481
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sad",
+			"loop": false,
+			"name": "old dead idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/old is dead bua",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "circle",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-170,
+		530
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

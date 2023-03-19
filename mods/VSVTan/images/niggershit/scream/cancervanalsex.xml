@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cancervanalsex.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="both0000" x="0" y="0" width="2767" height="825" pivotX="1391.7" pivotY="503.4" frameX="0" frameY="0" frameWidth="2767" frameHeight="837"/>
+	<SubTexture name="both0001" x="2768" y="0" width="2767" height="825" frameX="0" frameY="0" frameWidth="2767" frameHeight="837"/>
+	<SubTexture name="both0002" x="0" y="826" width="2764" height="829" frameX="-3" frameY="-8" frameWidth="2767" frameHeight="837"/>
+	<SubTexture name="both0003" x="2765" y="826" width="2764" height="829" frameX="-3" frameY="-8" frameWidth="2767" frameHeight="837"/>
+	<SubTexture name="both0004" x="0" y="1656" width="2767" height="815" frameX="0" frameY="-10" frameWidth="2767" frameHeight="837"/>
+	<SubTexture name="both0005" x="2768" y="1656" width="2767" height="815" frameX="0" frameY="-10" frameWidth="2767" frameHeight="837"/>
+</TextureAtlas>

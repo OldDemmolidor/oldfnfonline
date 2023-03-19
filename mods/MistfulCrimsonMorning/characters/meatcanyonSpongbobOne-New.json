@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				207
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "meatcanyonspongebob down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				219
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "meatcanyonspongebob up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				184
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "meatcanyonspongebob left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				209
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "meatcanyonspongebob right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				183
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "meatcanyonspongebob idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/meatcanyonspongebobyy",
+	"position": [
+		-500,
+		-120
+	],
+	"healthicon": "wtf",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		153,
+		72
+	],
+	"camera_position": [
+		-1000,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

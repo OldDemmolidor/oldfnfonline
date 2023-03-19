@@ -1,0 +1,20 @@
+mods/data/birthday/birthday-hard.json
+mods/data/birthday/mod.txt
+mods/VSVTan/characters/yotsu.json
+mods/VSVTan/characters/hiro.json
+mods/VSVTan/images/characters/yotsu.png
+mods/VSVTan/images/characters/yotsu.xml
+mods/VSVTan/images/characters/hiro.png
+mods/VSVTan/images/characters/hiro.xml
+mods/VSVTan/scripts/cam.lua
+mods/VSVTan/scripts/Debug_Keys.lua
+mods/VSVTan/scripts/KadeEngineComplexAccWithTimings.lua
+mods/VSVTan/scripts/Rating.lua
+mods/VSVTan/scripts/Score.lua
+mods/VSVTan/scripts/Super_Hugo's Stage Editor V1.6.3.lua
+mods/VSVTan/scripts/timebarfucked.lua
+mods/VSVTan/scripts/trailDoubleNote.lua
+mods/songs/birthday/Voices.ogg
+mods/songs/birthday/voices.ogg
+mods/songs/birthday/Inst.ogg
+mods/songs/birthday/inst.ogg

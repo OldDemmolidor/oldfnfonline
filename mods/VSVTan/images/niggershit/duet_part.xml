@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="duet part.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="duet0000" x="0" y="0" width="991" height="935" pivotX="495.35" pivotY="467.05"/>
+	<SubTexture name="duet0001" x="0" y="0" width="991" height="935"/>
+	<SubTexture name="duet0002" x="993" y="0" width="991" height="935"/>
+	<SubTexture name="duet0003" x="993" y="0" width="991" height="935"/>
+</TextureAtlas>

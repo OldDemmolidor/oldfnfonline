@@ -1,0 +1,16 @@
+mods/data/harmony/harmony-hard.json
+mods/data/harmony/mod.txt
+mods/VSVTan/stages/VTanStage.json
+mods/VSVTan/stages/VTanStage.lua
+mods/VSVTan/scripts/cam.lua
+mods/VSVTan/scripts/Debug_Keys.lua
+mods/VSVTan/scripts/KadeEngineComplexAccWithTimings.lua
+mods/VSVTan/scripts/Rating.lua
+mods/VSVTan/scripts/Score.lua
+mods/VSVTan/scripts/Super_Hugo's Stage Editor V1.6.3.lua
+mods/VSVTan/scripts/timebarfucked.lua
+mods/VSVTan/scripts/trailDoubleNote.lua
+mods/songs/harmony/Voices.ogg
+mods/songs/harmony/voices.ogg
+mods/songs/harmony/Inst.ogg
+mods/songs/harmony/inst.ogg

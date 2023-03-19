@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-238,
+				-213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-297,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-206,
+				-196
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-216
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-161
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-251,
+				-197
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/satisfaction/meatcanyon",
+	"position": [
+		-500,
+		-120
+	],
+	"healthicon": "wtf",
+	"flip_x": true,
+	"healthbar_colors": [
+		185,
+		153,
+		72
+	],
+	"camera_position": [
+		-350,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}
